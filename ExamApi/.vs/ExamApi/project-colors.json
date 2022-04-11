@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4d316296-9bc2-49fa-84b2-136bbee4c995": {
+      "ProjectGuid": "4d316296-9bc2-49fa-84b2-136bbee4c995",
+      "DisplayName": "ExamApi",
+      "ColorIndex": 0
+    },
+    "1043bc3e-a5c4-406f-a97e-35623d5bfbff": {
+      "ProjectGuid": "1043bc3e-a5c4-406f-a97e-35623d5bfbff",
+      "DisplayName": "ExamApi.Domain",
+      "ColorIndex": 1
+    },
+    "ac3f2947-eef3-45f9-8530-09ac560b0388": {
+      "ProjectGuid": "ac3f2947-eef3-45f9-8530-09ac560b0388",
+      "DisplayName": "ExamApi.Repository",
+      "ColorIndex": 2
+    },
+    "758710e9-1266-4aaf-bdd0-cf9bdac81aad": {
+      "ProjectGuid": "758710e9-1266-4aaf-bdd0-cf9bdac81aad",
+      "DisplayName": "ExamApi.Services",
+      "ColorIndex": 3
+    },
+    "8872780a-eb04-4bb8-a5d2-285fab784340": {
+      "ProjectGuid": "8872780a-eb04-4bb8-a5d2-285fab784340",
+      "DisplayName": "ExamApi.Tests",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

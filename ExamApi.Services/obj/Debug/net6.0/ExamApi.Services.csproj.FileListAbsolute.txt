@@ -1,0 +1,17 @@
+D:\Projetos\Pessoal\Estudo\Capgemini Test\ExamApi.Services\bin\Debug\net6.0\ExamApi.Services.deps.json
+D:\Projetos\Pessoal\Estudo\Capgemini Test\ExamApi.Services\bin\Debug\net6.0\ExamApi.Services.dll
+D:\Projetos\Pessoal\Estudo\Capgemini Test\ExamApi.Services\bin\Debug\net6.0\ExamApi.Services.pdb
+D:\Projetos\Pessoal\Estudo\Capgemini Test\ExamApi.Services\obj\Debug\net6.0\ExamApi.Services.csproj.AssemblyReference.cache
+D:\Projetos\Pessoal\Estudo\Capgemini Test\ExamApi.Services\obj\Debug\net6.0\ExamApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Pessoal\Estudo\Capgemini Test\ExamApi.Services\obj\Debug\net6.0\ExamApi.Services.AssemblyInfoInputs.cache
+D:\Projetos\Pessoal\Estudo\Capgemini Test\ExamApi.Services\obj\Debug\net6.0\ExamApi.Services.AssemblyInfo.cs
+D:\Projetos\Pessoal\Estudo\Capgemini Test\ExamApi.Services\obj\Debug\net6.0\ExamApi.Services.csproj.CoreCompileInputs.cache
+D:\Projetos\Pessoal\Estudo\Capgemini Test\ExamApi.Services\obj\Debug\net6.0\ExamApi.Services.dll
+D:\Projetos\Pessoal\Estudo\Capgemini Test\ExamApi.Services\obj\Debug\net6.0\refint\ExamApi.Services.dll
+D:\Projetos\Pessoal\Estudo\Capgemini Test\ExamApi.Services\obj\Debug\net6.0\ExamApi.Services.pdb
+D:\Projetos\Pessoal\Estudo\Capgemini Test\ExamApi.Services\obj\Debug\net6.0\ref\ExamApi.Services.dll
+D:\Projetos\Pessoal\Estudo\Capgemini Test\ExamApi.Services\bin\Debug\net6.0\ExamApi.Domain.dll
+D:\Projetos\Pessoal\Estudo\Capgemini Test\ExamApi.Services\bin\Debug\net6.0\ExamApi.Domain.pdb
+D:\Projetos\Pessoal\Estudo\Capgemini Test\ExamApi.Services\obj\Debug\net6.0\ExamApi.Services.csproj.CopyComplete
+D:\Projetos\Pessoal\Estudo\Capgemini Test\ExamApi.Services\bin\Debug\net6.0\ExamApi.Repository.dll
+D:\Projetos\Pessoal\Estudo\Capgemini Test\ExamApi.Services\bin\Debug\net6.0\ExamApi.Repository.pdb
